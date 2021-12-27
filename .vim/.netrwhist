@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/davidbasto/.tmux'
+let g:netrw_dirhist_5='/home/davidbasto/dev/machine-learning/machine-learning-coursera/machine-learning-ex3/ex3'
+let g:netrw_dirhist_4='/home/davidbasto/.vim'
+let g:netrw_dirhist_3='/etc/netplan'
+let g:netrw_dirhist_2='/home/davidbasto/dev/test-reverse-proxy/docker-compose-example/controller'
+let g:netrw_dirhist_1='/home/davidbasto/Trabalho/dev/workspace/gemini/docker/.git'
